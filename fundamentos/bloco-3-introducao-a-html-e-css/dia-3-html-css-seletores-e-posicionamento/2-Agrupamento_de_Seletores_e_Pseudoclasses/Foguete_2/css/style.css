@@ -1,0 +1,37 @@
+div:hover{
+border: 2px solid blue;
+}
+div:nth-of-type(1){
+    background-color: rgb(251, 10, 10);
+}
+
+div:nth-of-type(2){
+    background-color: rgb(255, 0, 247);
+}
+
+div:nth-of-type(3){
+    background-color: rgb(57, 70, 145);
+    font-size: 30px;
+}
+
+div:nth-of-type(4){
+    background-color: aqua;
+}
+
+div:nth-of-type(5){
+    background-color: rgb(217, 255, 0);
+}
+ h3{
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    
+ }
+ h3:nth-child(odd){
+    text-decoration: underline;
+    font-style: italic;
+ }
+ h3:nth-child(even){
+    border-radius: 10px; 
+    
+
+}
