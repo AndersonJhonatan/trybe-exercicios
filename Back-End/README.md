@@ -1,2 +1,0 @@
-# trybe-exercicios 
- 
