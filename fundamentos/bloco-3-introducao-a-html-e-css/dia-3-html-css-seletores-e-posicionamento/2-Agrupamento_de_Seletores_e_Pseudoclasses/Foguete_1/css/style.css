@@ -1,0 +1,16 @@
+h1, p{
+    color:blueviolet;
+    text-align: center;
+}
+
+li:hover{
+    background-color: rgb(2, 254, 200);
+}
+
+a:active{
+    color:rgb(255, 0, 0);
+    font-family: fantasy;
+}
+ol{
+    list-style: none;
+}
