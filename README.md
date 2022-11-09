@@ -1,6 +1,6 @@
 ## Trybe-exercicios
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Felipe Clemente](https://www.linkedin.com/in/anderson-jhonatan-dos-santos-b230b623a/))_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Anderson Jhonatan](https://www.linkedin.com/in/anderson-jhonatan-dos-santos-b230b623a/))_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia."_
 
