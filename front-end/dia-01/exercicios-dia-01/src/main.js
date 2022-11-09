@@ -17,4 +17,6 @@ const campos = {
   url: validator.isURL(inputTexto.value),
 };
 
+
+
 answer.innerHTML = `A validação retornou ${campos[option.value]}`;
